@@ -26,4 +26,4 @@ I plan to change my activity to frontend in half a year or a year
 
 ## Sity: Pinsk, Belarus
 
-![mountains](/img/Photo.jpg
+![mountains](/img/Photo.jpg)
